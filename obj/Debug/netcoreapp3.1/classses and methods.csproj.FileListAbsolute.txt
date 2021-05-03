@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\bin\Debug\netcoreapp3.1\classses and methods.exe
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\bin\Debug\netcoreapp3.1\classses and methods.deps.json
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\bin\Debug\netcoreapp3.1\classses and methods.runtimeconfig.json
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\bin\Debug\netcoreapp3.1\classses and methods.runtimeconfig.dev.json
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\bin\Debug\netcoreapp3.1\classses and methods.dll
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\bin\Debug\netcoreapp3.1\classses and methods.pdb
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.AssemblyInfo.cs
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.dll
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.pdb
+C:\Users\USER\Desktop\personal practice folder .net\classses and methods\obj\Debug\netcoreapp3.1\classses and methods.genruntimeconfig.cache
